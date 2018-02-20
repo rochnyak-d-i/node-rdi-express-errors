@@ -2,7 +2,7 @@
 
 ### Установка
 ```bash
-npm i git+https://git@github.com/rochnyak-d-i/node-rdi-express-errors.git
+npm i https://git@github.com/rochnyak-d-i/node-rdi-express-errors
 ```
 
 ### Работа

@@ -23,6 +23,6 @@
     "supertest": "^3.0.0"
   },
   "dependencies": {
-    "rdi-http-error": "git+https://git@github.com/rochnyak-d-i/node-rdi-http-error.git"
+    "rdi-http-error": "https://git@github.com/rochnyak-d-i/node-rdi-http-error"
   }
 }
